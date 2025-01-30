@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-30T13:30:50 IST" name="Suite" finished-at="2025-01-30T13:31:08 IST" duration-ms="17915">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="CreateContact1Test.createContact1Test()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" name="createContact1Test" class="contact.practice.CreateContact1Test"/>
+      </group> <!-- SmokeTest -->
+    </groups>
+    <test started-at="2025-01-30T13:30:50 IST" name="Test" finished-at="2025-01-30T13:31:08 IST" duration-ms="17915">
+      <class name="contact.practice.CreateContact1Test">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" started-at="2025-01-30T13:30:50 IST" name="configBS" finished-at="2025-01-30T13:30:50 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" started-at="2025-01-30T13:30:50 IST" name="configBC" finished-at="2025-01-30T13:30:52 IST" duration-ms="2016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" started-at="2025-01-30T13:30:52 IST" name="configBM" finished-at="2025-01-30T13:30:59 IST" duration-ms="6439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createContact1Test()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" started-at="2025-01-30T13:30:59 IST" name="createContact1Test" finished-at="2025-01-30T13:31:07 IST" duration-ms="7851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact1Test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" started-at="2025-01-30T13:31:07 IST" name="configAM" finished-at="2025-01-30T13:31:08 IST" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" started-at="2025-01-30T13:31:08 IST" name="configAC" finished-at="2025-01-30T13:31:08 IST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:contact.practice.CreateContact1Test@6cf0e0ba]" started-at="2025-01-30T13:31:08 IST" name="configAS" finished-at="2025-01-30T13:31:08 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- contact.practice.CreateContact1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
