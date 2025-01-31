@@ -2,7 +2,7 @@ package newframework;
 
 import org.testng.annotations.Test;
 
-public class NewCode {
+public class NewCodeTest {
 
 	@Test
 	public void createContactTest()
